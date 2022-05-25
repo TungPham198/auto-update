@@ -1,0 +1,8 @@
+.nk-header .logo-multibrowser{
+    color: white;
+}
+
+.nk-header-brand .logo-link{
+    display: flex;
+    gap: 10px;
+}

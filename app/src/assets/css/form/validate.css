@@ -1,0 +1,9 @@
+.validateFail {
+  color: #bf1650;
+  padding-top: 10px;
+}
+
+.validateFail::before {
+  display: inline;
+  content: "⚠ ";
+}

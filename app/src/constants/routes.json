@@ -1,0 +1,14 @@
+{
+    "WELCOME": "/",
+    "LOGIN": "/login",
+    "CREATE": "/create",
+    "SIGNIN": "/signin",
+    "REGISTER": "/register",
+    "VERIFY": "/verify",
+    "DOWNLOAD": "/download",
+    "FOLDER": "/forder",
+    "PROXY": "/proxy",
+	"RECYCLE": "/recycle",
+	"RESENDOTP": "/resendOTP",
+	"EDIT_PROFILE": "/profile/edit"
+}
